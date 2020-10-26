@@ -1,0 +1,218 @@
+body{
+    text-align: center;
+    background-color: yellow;
+}
+
+#apps{
+    background-color: yellow;
+    width: 100%;
+    height: 100%;
+}
+
+#imageMy{
+    border-radius: 50%;
+    height: 450px;
+    width: 350px;
+    margin-top: 30px;
+}
+
+#home{
+    background: linear-gradient(#f2ff00 0%, #00ff1a 100%);
+    width: 100%;
+    height: 100%;
+}
+
+.line{
+    height: 6px;
+    width: 70px;
+    margin: 8px auto;
+    background-color: black;
+}
+
+.menu{
+    font-family: 'Roboto', sans-serif;
+    position: fixed;
+    top: 0px;
+    z-index: 10;
+    cursor: pointer;
+    margin-top: 0px;
+    width: 100%;
+    background-color: white;
+}
+
+.links{
+    padding-left: 33px;
+    padding-right: 25px;
+    font-size: 19px;
+    font-family: 'Roboto', sans-serif;
+    display: inline;
+}
+
+.links:hover{
+    text-decoration: underline;
+    font-size: 22px;
+}
+
+html{
+    scroll-behavior: smooth;
+}
+
+a{
+    text-decoration: none;
+    font-weight: bold;
+}
+
+h1 {
+    color: blue;
+    font-size: 20px;
+    font-family: cursive;
+    font-weight: bold;
+}
+
+h4 {
+    color: blue;
+    font-size: 30px;
+    font-weight: bold;
+}
+
+h3{
+    color: red;
+    font-size: 30px;
+    font-style: italic;
+    font-weight: bold;
+}
+
+p{
+    color: purple;
+    font-size: 35px;
+    font-weight: bold;
+}
+
+.heading{
+    color: darkblue;
+    font-size: 35px;
+    font-weight: bold;
+    font-variant: small-caps;
+}
+
+#hobby {
+    background-color: yellow;
+}
+
+#book {
+    border-radius: 50%;
+    width: 300px;
+}
+
+#bio {
+    color: rebeccapurple;
+    font-size: 30px;
+    font-weight: bold;
+}
+
+#topic {
+    color: dodgerblue;
+    font-size: 30px;
+    font-weight: bold;
+}
+
+.subtitle {
+    color: red;
+    font-size: 20px;
+    font-weight: bolder;
+    font-family: 'Josefin Sans', sans-serif;
+}
+
+#interest {
+    background-color: yellow;
+}
+
+.interpara {
+    color: blueviolet;
+    font-size: 35px;
+    font-family: 'Caveat', cursive;
+}
+
+#myCarousel {
+    background-color: chartreuse;
+}
+
+#myCarousel img{
+    height: 280px;
+    width: 280px;
+    margin-top: 35px;
+}
+
+.carousel-inner p{
+    color: blue;
+    font-size: 25px;
+    margin-bottom: 15px;
+    margin-top: 15px;
+    font-weight: bold;
+}
+
+#myCarousel img:hover{
+    cursor: pointer;
+    height: 250px;
+    width: 250px;
+}
+
+#games {
+    background-color: chartreuse;
+}
+
+#inspiration {
+    background-color: yellow;
+}
+
+#SadhVasudev {
+    color: darkorchid;
+    font-size: 30px;
+    font-weight: bold;
+}
+
+#favouritegames {
+    background-color: yellow;
+}
+
+#sports {
+    height: 400px;
+    width: 450px;
+}
+
+#sportss {
+    height: 400px;
+    width: 500px;
+}
+
+#vidgame {
+    height: 450px;
+    width: 650px;
+}
+
+#contact iframe{
+    width: 100%;
+}
+
+.contact_1 h8 {
+    display: inline;
+}
+
+.contact_1 a {
+    color: red;
+    text-shadow: none;
+    font-size: 25px;
+}
+
+#con {
+    color: red;
+    font-size: 50px;
+    font-family: cursive;
+    font-weight: bolder;
+}
+
+#contact {
+    background-color: chartreuse;
+    width: 100%;
+    height: 100%;
+}
